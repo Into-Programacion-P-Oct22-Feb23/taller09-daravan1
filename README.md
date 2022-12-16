@@ -1,4 +1,10 @@
 # Taller 9 (Laboratorio)
+
+## Integrantes grupo:}
+
+-Dara Van Gijsel
+-Santiago Chavez
+
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
